@@ -8,7 +8,7 @@
 
 | Version | Date | APK | Size |
 |---------|------|-----|------|
-| v4.1 | 2026-05-22 | [NexBeat-v4.1-universal-release-optimized.apk](https://github.com/PandaSL2/NexBeat/releases/download/v4.1/NexBeat-v4.1-universal-release-optimized.apk) | 34.9 MB |
+| v4.1.1 | 2026-05-22 | [NexBeat-v4.1.1-universal-release-optimized.apk](https://github.com/PandaSL2/NexBeat/releases/download/v4.1.1/NexBeat-v4.1.1-universal-release-optimized.apk) | 34.9 MB |
 
 All builds are **universal** — supports arm64-v8a, armeabi-v7a, x86, and x86_64.
 
@@ -35,7 +35,7 @@ All builds are **universal** — supports arm64-v8a, armeabi-v7a, x86, and x86_6
 
 ---
 
-## Optimizations (v4.1)
+## Optimizations (v4.1.1)
 
 - **Custom buffering**: 150s/300s buffer durations for smooth playback on slow networks
 - **Adaptive quality**: Auto-detects 2G/3G/4G/WiFi and adjusts audio bitrate accordingly
