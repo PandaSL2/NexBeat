@@ -4,15 +4,7 @@
 
 ---
 
-## Downloads
 
-| Version | Date | APK | Size |
-|---------|------|-----|------|
-| v4.2 | 2026-05-22 | [NexBeat-v4.2-universal-release-optimized.apk](https://github.com/PandaSL2/NexBeat/releases/download/v4.2/NexBeat-v4.2-universal-release-optimized.apk) | 34.9 MB |
-
-All builds are **universal** — supports arm64-v8a, armeabi-v7a, x86, and x86_64.
-
----
 
 ## Features
 
