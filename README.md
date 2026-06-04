@@ -17,8 +17,7 @@ All APKs are **universal** (supports arm64-v8a, armeabi-v7a, x86, x86_64).
 
 ---
 
-<img width="446" height="1000" alt="Screenshot_20260604_071035_com_theek_nexbeat_MainActivity (1)" src="https://github.com/user-attachments/assets/dbf327a8-c24f-4c38-8f2e-2cc81df6eeb1" />
-
+<img width="357" height="800" alt="Screenshot_20260604_071823_com_theek_nexbeat_MainActivity (1)" src="https://github.com/user-attachments/assets/2440d955-6ac5-4273-9c5c-0e7ef3bd79a3" />
 
 ---
 
