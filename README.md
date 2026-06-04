@@ -23,9 +23,12 @@ All APKs are **universal** (supports arm64-v8a, armeabi-v7a, x86, x86_64).
 
 ## Core Features
 
-- **YouTube Music Streaming**: Full access to YouTube Music catalog, album streaming, and smart search.
-- **Offline Downloads**: High-fidelity caching and downloading for uninterrupted offline playback.
-- **Discord Rich Presence**: Share what you are listening to in real-time on Discord.
+- **Multi-Source Streaming & Integration**:
+  - **YouTube Music Streaming**: Access the entire YouTube Music catalog, search songs, play albums, and explore charts.
+  - **Spotify & Apple Music Connections**: Seamlessly connect, import, and sync metadata or playlists from Spotify and Apple Music via dedicated plugins.
+  - **Local Music Library**: Scan and organize local audio files (MP3, FLAC, M4A, etc.) from device storage with high-fidelity local playback.
+- **Offline Downloads & Caching**: Download tracks for uninterrupted offline listening with smart storage caching.
+- **Discord Rich Presence**: Share what you are listening to in real-time directly on Discord.
 - **Scrobbling Support**: Full integration with Last.fm & ListenBrainz to log and track your listening history.
 - **"Together" Listening**: Synchronize playback with friends remotely for shared listening sessions.
 - **Built-in Equalizer**: Multi-band hardware audio equalizer with Bass Boost and Virtualizer support.
