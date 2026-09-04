@@ -16,7 +16,6 @@
 All APKs are **universal** (supports arm64-v8a, armeabi-v7a, x86, x86_64).
 
 ---
-<img width="2160" height="3240" alt="20260904_160759-COLLAGE" src="https://github.com/user-attachments/assets/980b4364-1422-4a4e-8ba3-4519a8b9e567" />
 
 ---
 ## Core Features
