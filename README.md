@@ -17,10 +17,6 @@ All APKs are **universal** (supports arm64-v8a, armeabi-v7a, x86, x86_64).
 
 ---
 
-<img width="357" height="800" alt="Screenshot_20260604_071823_com_theek_nexbeat_MainActivity (1)" src="https://github.com/user-attachments/assets/2440d955-6ac5-4273-9c5c-0e7ef3bd79a3" />
-
----
-
 ## Core Features
 
 - **Multi-Source Streaming & Integration**:
@@ -106,4 +102,7 @@ Stay up-to-date with new feature releases directly inside the application:
 
 - Android 8.0+ (API 26)
 - Internet connection for streaming
+---
+
+<img width="1080" height="2392" alt="Screenshot_20260904-151255" src="https://github.com/user-attachments/assets/a14dee7d-30ca-47e8-8cac-d0f25de7b07f" />
 
